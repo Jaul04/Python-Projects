@@ -14,7 +14,7 @@ Transforms raw data into meaningful insights using Python—from data cleaning t
 - Visualization (bar charts, line graphs)  
 - Insight generation & trend analysis  
 
-## 📂 Structure
+### 📂 Structure
 - `Project1.ipynb` – Code, processing steps & visual outputs  
 
 ## 📈 Results
