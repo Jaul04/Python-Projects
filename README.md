@@ -3,7 +3,7 @@
 ### 🚀 Overview
 Transforms raw data into meaningful insights using Python—from data cleaning to visualization.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - 🐍 Python  
 - 📊 pandas  
 - 📉 matplotlib  
