@@ -17,7 +17,7 @@ Transforms raw data into meaningful insights using Python—from data cleaning t
 ## 📂 Structure
 - `Project1.ipynb` – Code, processing steps & visual outputs  
 
-## 📈 Results
+### 📈 Results
 - Cleaned datasets  
 - Clear visualizations  
 - Actionable insights  
